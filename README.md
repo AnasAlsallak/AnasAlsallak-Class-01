@@ -1,18 +1,18 @@
-# my-notes
+# **my-notes**
 
-## About Me
+## **About Me**
 
 My name is Anas Alsallak, i live in Jerash, i majored in **Network Engineering and Security** at **JUST**, i am passionate about *__cyber security__* and the new merging IT technologies such as *__AI__*, *__Machine Learning__* and *__Robotics__*. 
 
 ___
 
-## What i have learned reading the article 
+## **What i have learned reading the article**
 
-### Overview
+### **Overview**
 
-**The article "Learn the Fundamentals of a Good Developer Mindset in 15 Minutes" highlights the importance of having a strong and positive mindset as a developer. It lists several key characteristics of a good developer mindset, including a focus on learning, continuous improvement, resilience, and a willingness to take risks and try new things. The article also stresses the importance of collaboration and communication, and offers advice on how to maintain a healthy and productive mindset.**
+*The article "Learn the Fundamentals of a Good Developer Mindset in 15 Minutes" highlights the importance of having a strong and positive mindset as a developer. It lists several key characteristics of a good developer mindset, including a focus on learning, continuous improvement, resilience, and a willingness to take risks and try new things. The article also stresses the importance of collaboration and communication, and offers advice on how to maintain a healthy and productive mindset.*
 
-### Summary
+### **Summary**
 
 some factors that damage the software badly are gradual and affect it on the long-term where the complexity becomes obvious.
 
@@ -125,6 +125,7 @@ simply ...
 - Try anything and everything you can think of to solve the problem don't ask for help right away.
 - When you can’t think of anything on your own, search and try and understand why?
 - Always seek advice. Look to peers and senior developers to review your code.
+
 ___
 
 ***[`** Refer to the original article here`](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/ "push  me :)")***
