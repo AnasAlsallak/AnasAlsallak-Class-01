@@ -23,7 +23,7 @@ Here is some ***Guidlines*** to keep in mind to develop a sustainable software:
    - Keep asking your self **"How can i help?"** when ever you need to make decisions about the software.
 
 **2\. The Goals of Software Design.**<br>
-Your design should be:
+   Your design should be:
    - Easy for you.
    - Helpful for others for **a long time**.
 
@@ -31,6 +31,7 @@ Your design should be:
    - Fully understand the systems and tools you are working with to avoid misunderstanding-complexity cycle.
 
 **4\. Simplicity.**
+
 >**Simplicity is the ultimate sophistication. — Leonardo da Vinci**
 
    - Stupid, dumb simple and of course bug resistance is the best!
@@ -64,11 +65,13 @@ Your design should be:
 - Being too generic involves a lot of code and complexity that isn’t needed.
 
 **12\. Assumptions.**
+
 >**Code should be designed based on what you know now, not on what you think will happen in the future.**
 > —  Code Simplicity
 
 **13\. Stop Reinventing.**<br>
 simply ...
+
 >**Don’t reinvent the wheel.**
 
 **14\. Resistance.**
